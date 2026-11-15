@@ -2,19 +2,19 @@
 
 [English](https://github.com/ArmadaOS-Freedom) · **简体中文**
 
-**让 ARM 平板拥有 Steam 游戏模式、Linux 桌面与多系统启动体验。**
+**让 ARM/安卓 平板拥有类 SteamDeck 的游戏模式、完整的 Linux 桌面与可选的多系统启动，让你拥有随身游戏机的体验**
 
 [ArmadaOS Freedom](https://github.com/ArmadaOS-Freedom/armadaos-freedom) 是基于 [ArmadaOS](https://github.com/armada-os/armada) 的社区维护项目，专注于 ARM 平板的硬件适配与游戏体验。
 
-我们保留 ArmadaOS 的系统基础，将 Steam 游戏模式、FEX、Proton 和 KDE Plasma 桌面带到平板上，并围绕多系统引导、硬件驱动、安装维护和游戏控制开发配套工具。
+我们基于 ArmadaOS 的系统基础，将 Steam 游戏模式、FEX、Proton 和 KDE Plasma 桌面等功能带到平板上，并围绕多系统引导、硬件驱动、安装维护和游戏控制开发配套工具，打造的一个全新系统。
 
 ### 🎮 我们在做什么
 
-- **游戏与桌面**：提供 Steam 游戏模式与 KDE Plasma 桌面，通过 FEX 和 Proton 运行兼容的 PC 游戏。
-- **多系统启动**：基于 kShimC 提供启动菜单，让 Android 与 Linux 共存，按需选择使用。
-- **平板硬件适配**：持续完善显示、触摸、音频、网络、电源、USB 和手柄等功能。
-- **安装与维护**：提供配套安装助手、备份恢复及系统维护工具。
-- **游戏配套工具**：通过 Decky 插件管理游戏设置、性能配置和网络加速。
+- **游戏模式与桌面模式**：提供 Steam 游戏模式与 KDE Plasma 桌面，通过 FEX 和 Proton 运行兼容的 PC 游戏。
+- **自由选择的多系统启动**：基于 kShimC 启动器，让 Android 与 Linux 共存，按需选择使用。
+- **更多平板的硬件适配**：持续完善显示、触摸、音频、网络、电源、USB 和手柄等功能。
+- **方便的安装与维护**：提供配套安装助手、备份恢复及系统维护工具。
+- **系统配套工具**：通过 Decky 插件管理游戏设置、TF卡分配、性能配置和网络加速。
 
 ### 📱 当前适配设备
 
@@ -49,7 +49,7 @@
 - **中文交流**：欢迎前往[单翼的哔哩哔哩](https://space.bilibili.com/258786)，查看项目动态、使用教程与演示。
 - **QQ 粉丝大群**：487945399
 - **QQ 粉丝二群**：332038419
-- **海外联系 / International contact**：欢迎通过邮箱联系 / Feel free to email [mydanyi@qq.com](mailto:mydanyi@qq.com)。
+- **海外联系**：通过邮箱联系 [mydanyi@qq.com](mailto:mydanyi@qq.com)。
 
 问题反馈与功能建议，也欢迎提交到对应项目的 **GitHub Issues**。
 
