@@ -2,23 +2,23 @@
 
 **English** · [简体中文](https://github.com/ArmadaOS-Freedom/.github/blob/main/profile/README.zh-CN.md)
 
-**Bringing Steam Gaming Mode, a Linux desktop, and multi-boot to ARM tablets.**
+**Turn your Android tablet into a portable gaming device—with a Steam Deck-style gaming mode, a full Linux desktop, and optional multi-boot.**
 
-[ArmadaOS Freedom](https://github.com/ArmadaOS-Freedom/armadaos-freedom) is a community-maintained project based on [ArmadaOS](https://github.com/armada-os/armada), focused on hardware support and gaming on ARM tablets.
+[ArmadaOS Freedom](https://github.com/ArmadaOS-Freedom/armadaos-freedom) is a community-maintained operating system based on [ArmadaOS](https://github.com/armada-os/armada), focused on hardware support and gaming on ARM Android tablets.
 
-We build on the ArmadaOS foundation to bring Steam Gaming Mode, FEX, Proton, and KDE Plasma to tablets. We also develop tools for multi-boot, hardware support, installation and maintenance, and gaming controls.
+We build on ArmadaOS to create a tablet operating system with Steam Gaming Mode, FEX, Proton, KDE Plasma, and more. Our work also includes multi-boot support, hardware drivers, installation and maintenance tools, and gaming controls.
 
 ### 🎮 What we work on
 
-- **Gaming and desktop**: Steam Gaming Mode and KDE Plasma, with FEX and Proton for running compatible PC games.
-- **Multi-boot**: A kShimC boot menu that lets Android and Linux coexist, so you can choose which system to use.
-- **Tablet hardware support**: Ongoing work on displays, touch input, audio, networking, power, USB, and controllers.
-- **Installation and maintenance**: Companion tools for installation, backup, recovery, and system maintenance.
-- **Gaming tools**: Decky plugins for game settings, performance configuration, and network acceleration.
+- **Gaming and desktop modes**: Steam Gaming Mode and KDE Plasma, with FEX and Proton to run compatible PC games.
+- **Optional multi-boot**: Keep Android and Linux side by side with the kShimC launcher, and choose which system to use.
+- **Hardware support for more tablets**: Ongoing improvements to displays, touch input, audio, networking, power, USB, and controllers.
+- **Easier installation and maintenance**: Companion tools for installation, backup, recovery, and system maintenance.
+- **System tools**: Decky plugins for game settings, microSD space allocation, performance settings, and network acceleration.
 
-### 📱 Current device work
+### 📱 Device support
 
-Our current adaptation work covers the following devices:
+We are currently adapting the system for the following devices:
 
 | Device | Model | Documentation |
 |---|---|---|
@@ -32,29 +32,29 @@ See each device's documentation for installation requirements, available feature
 
 | Project | Description |
 |---|---|
-| [ArmadaOS Freedom](https://github.com/ArmadaOS-Freedom/armadaos-freedom) | The main system repository, maintaining tablet support, the kernel and drivers, multi-boot, and related documentation. |
-| [Freedom Installer](https://github.com/ArmadaOS-Freedom/armadaos-freedom-installer) | Windows installation and maintenance tools, including installation, backup, and recovery. An Apple silicon macOS version is also available and currently provides installation to internal storage. |
-| [Freedom Control](https://github.com/ArmadaOS-Freedom/freedom-control) | A Decky control plugin derived from Armada Control, providing global and per-game compatibility and performance settings, with ongoing tablet platform support. |
-| [Smart TF Card Allocator](https://github.com/ArmadaOS-Freedom/smart-tf-allocator) | An Android app for splitting a microSD card between Android adopted storage and a Linux game library, and moving supported apps. Linux game-library setup is completed with Freedom Controller. |
-| [UU Accelerator Plugin](https://github.com/ArmadaOS-Freedom/decky-uu-accelerator) | A third-party Decky plugin for ArmadaOS and Freedom that integrates official core installation, phone pairing via QR code, and acceleration status monitoring. |
+| [ArmadaOS Freedom](https://github.com/ArmadaOS-Freedom/armadaos-freedom) | The main system repository, covering tablet hardware support, the kernel and drivers, multi-boot, and documentation. |
+| [Freedom Installer](https://github.com/ArmadaOS-Freedom/armadaos-freedom-installer) | Installation and maintenance tools for Windows, including installation, backup, and recovery. The Apple silicon macOS version currently supports installation to internal storage. |
+| [Freedom Control](https://github.com/ArmadaOS-Freedom/freedom-control) | A Decky plugin based on Armada Control, offering global and per-game compatibility and performance settings, with ongoing support for tablet hardware. |
+| [Smart TF Card Allocator](https://github.com/ArmadaOS-Freedom/smart-tf-allocator) | An Android app for allocating microSD space between Android app storage and a Linux game library. It also moves supported apps. Linux game-library setup is handled by Freedom Controller. |
+| [UU Accelerator Plugin](https://github.com/ArmadaOS-Freedom/decky-uu-accelerator) | A third-party Decky plugin for ArmadaOS and Freedom. Install the official core, pair with your phone by scanning a QR code, and view acceleration status. |
 
 ### 🤝 Get involved
 
-Contributions are welcome: code, device testing, bug reports, documentation, and sharing your experience.
+Contributions are welcome: code, device testing, bug reports, documentation improvements, and sharing your experience.
 
-To report a problem, open an **Issue** in the relevant repository and include your device model, system version, reproduction steps, and relevant logs to help us investigate.
+To report a problem, open an **Issue** in the relevant repository. Include your device model, system version, steps to reproduce the problem, and relevant logs so we can investigate.
 
 ### 📬 Community and contact
 
-- **Chinese-speaking community**: Visit [Danyi on Bilibili](https://space.bilibili.com/258786) for project updates, tutorials, and demonstrations.
+- **Chinese-speaking community**: Find project updates, tutorials, and demos on [Danyi's Bilibili channel](https://space.bilibili.com/258786).
 - **Main QQ fan group**: 487945399
 - **Second QQ fan group**: 332038419
-- **International contact**: Feel free to email [mydanyi@qq.com](mailto:mydanyi@qq.com).
+- **International contact**: Email [mydanyi@qq.com](mailto:mydanyi@qq.com).
 
 Bug reports and feature requests are also welcome through **GitHub Issues** in the relevant project.
 
 ### ❤️ Credits
 
-Thanks to the developers of [ArmadaOS](https://github.com/armada-os/armada), [kShimC](https://github.com/sunflower2333/kShimC), and the related open-source projects, and to everyone contributing hardware support, testing, and feedback.
+Thanks to the developers behind [ArmadaOS](https://github.com/armada-os/armada), [kShimC](https://github.com/sunflower2333/kShimC), and the related open-source projects. We also thank everyone contributing tablet support, testing, and feedback.
 
-All projects and components retain their original attribution and follow their respective licenses and terms of use.
+Each project and component retains its original attribution and is subject to its own license and terms of use.
