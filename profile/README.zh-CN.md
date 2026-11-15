@@ -35,6 +35,7 @@
 | [ArmadaOS Freedom](https://github.com/ArmadaOS-Freedom/armadaos-freedom) | 系统主仓库，维护平板适配、内核与驱动、多系统引导及相关文档。 |
 | [Freedom 安装助手](https://github.com/ArmadaOS-Freedom/armadaos-freedom-installer) | Windows 安装与维护工具，提供安装、备份和恢复等功能；另有 Apple 芯片 macOS 版，目前提供内部存储安装。 |
 | [Freedom Control](https://github.com/ArmadaOS-Freedom/freedom-control) | 基于 Armada Control 的 Decky 控制插件，提供全局与逐游戏的兼容性、性能设置，并持续完善平板平台适配。 |
+| [智能 TF 卡分配器](https://github.com/ArmadaOS-Freedom/smart-tf-allocator) | Android 端 TF 卡分配工具，划分 Android 应用存储与 Linux 游戏库空间，支持迁移受支持的应用；Linux 游戏库配置由 Freedom Controller 完成。 |
 | [UU 加速器插件](https://github.com/ArmadaOS-Freedom/decky-uu-accelerator) | 面向 ArmadaOS 与 Freedom 的第三方 Decky 插件，整合官方核心安装、手机扫码绑定和加速状态查看。 |
 
 ### 🤝 参与项目

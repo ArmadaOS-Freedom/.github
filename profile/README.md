@@ -35,6 +35,7 @@ See each device's documentation for installation requirements, available feature
 | [ArmadaOS Freedom](https://github.com/ArmadaOS-Freedom/armadaos-freedom) | The main system repository, maintaining tablet support, the kernel and drivers, multi-boot, and related documentation. |
 | [Freedom Installer](https://github.com/ArmadaOS-Freedom/armadaos-freedom-installer) | Windows installation and maintenance tools, including installation, backup, and recovery. An Apple silicon macOS version is also available and currently provides installation to internal storage. |
 | [Freedom Control](https://github.com/ArmadaOS-Freedom/freedom-control) | A Decky control plugin derived from Armada Control, providing global and per-game compatibility and performance settings, with ongoing tablet platform support. |
+| [Smart TF Card Allocator](https://github.com/ArmadaOS-Freedom/smart-tf-allocator) | An Android app for splitting a microSD card between Android adopted storage and a Linux game library, and moving supported apps. Linux game-library setup is completed with Freedom Controller. |
 | [UU Accelerator Plugin](https://github.com/ArmadaOS-Freedom/decky-uu-accelerator) | A third-party Decky plugin for ArmadaOS and Freedom that integrates official core installation, phone pairing via QR code, and acceleration status monitoring. |
 
 ### 🤝 Get involved
